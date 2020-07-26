@@ -1,19 +1,17 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './me.jpeg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
+  - Java
+  - Python
+  - Go
+  - Terraform
   - Node.js
-  - WordPress
+  - SQL
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Aveena, a software engineer based in San Francisco, California.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I am a graduate student from Stony Brook University pursuing Master of Science in Computer Science. I have 3 years of work experience as Software Engineer at Nomura.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
-
-Here are a few technologies I've been working with recently:
+I have experience building distributed and reliable micro-services, backend services, big data analytics and ML models. My interest areas are distributed systems, cloud infrastructure, machine learning and data engineering. I am always eager to learn new technolgies and intergrate them into existing tech-stack.

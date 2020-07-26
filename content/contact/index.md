@@ -1,6 +1,6 @@
 ---
 title: 'Get In Touch'
-buttonText: 'Say Hello'
+buttonText: 'Contact Me!'
 ---
 
-Although I'm not currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+Currently open to all full-time opportunities starting January 2021. Kindly send me an email if my profile interests you. I am interested in building reliable and scalable products, systems and infrastructure!
