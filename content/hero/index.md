@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Aveena Kottwani'
-subtitle: 'Software Engineer at Juniper Networks , MSCS graduate from Stony Brook University'
+subtitle: 'Experienced Software Engineer'
 buttonText: 'Open to full-time opportunities. Contact me!'
 ---
 
