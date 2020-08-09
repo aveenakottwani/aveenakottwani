@@ -4,10 +4,15 @@ avatar: './me.jpeg'
 skills:
   - Java
   - Python
+  - Apache Kafka
+  - Spring Framework
+  - Spark
+  - Machine Learning (CV , NLP)
+  - SQL
   - Go
+  - Kubernetes
   - Terraform
   - Node.js
-  - SQL
 ---
 
 Hello! I'm Aveena, a software engineer based in San Francisco, California.
