@@ -105,7 +105,7 @@ const Footer = () => {
           href="https://github.com/1703aveena/v4"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Brittany Chiang</div>
+          <div>Forked from Brittany's portfolio</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
