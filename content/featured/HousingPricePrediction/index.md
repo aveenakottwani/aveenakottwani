@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Housing Price Prediction'
-cover: './halcyon.png'
+cover: './housing.svg'
 github: 'https://github.com/aveenakottwani/Housing_Prices_prediction-Kaggle-Competition'
 # external: 'https://halcyon-theme.netlify.com/'
 tech:
